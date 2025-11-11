@@ -15,7 +15,7 @@ g++ minchocomilk.cpp -o minchocomilk.exe
 
 
 
-#include <iostream>
+#include <iostream> //문제: https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description
 #include <vector>
 #include <queue>
 #include <cstring>
